@@ -1,0 +1,15 @@
+{
+    "name": "wutpitak/calculator",
+    "authors": [
+        {
+            "name": "Pitak Thinoi",
+            "email": "wutpitak@hotmail.com"
+        }
+    ],
+    "require" : {},
+    "autoload" : {
+        "psr-4" : {
+          "wutpitak\\Calculator\\": "src/"  //อันนี้เรียกว่า Namespace 
+        }
+    }
+}
